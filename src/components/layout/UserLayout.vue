@@ -18,7 +18,7 @@
 
             <div class="footer">
                 <div class="copyright">
-                    Copyright &copy; 2022 Ms Project
+                    Copyright &copy; 2023 Vex Project
                 </div>
             </div>
         </div>
